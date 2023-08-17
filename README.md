@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AD_EaUjB4_ur--CEIvJAQ8ow1H54HhLO/view?usp=drive_link](https://drive.google.com/file/d/1AD_EaUjB4_ur--CEIvJAQ8ow1H54HhLO/view?usp=drive_link)
 
-- ⚡ Fun fact **I think i am the person who make everyone to smile by my comments.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/pratyushkarn45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyushkarn45" height="30" width="40" /></a>
@@ -29,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushkarn45&show_icons=true&locale=en&layout=compact" alt="pratyushkarn45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushkarn45&show_icons=true&locale=en" alt="pratyushkarn45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratyushkarn45&show_icons=true&locale=en" alt="pratyushkarn45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushkarn45&" alt="pratyushkarn45" /></p>
 
